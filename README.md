@@ -1,12 +1,11 @@
-# iaas-custom-image-ubuntu-focal-mysql (Work In Progress)
-* Note: Just created the repo from template [iaas-custom-image-ubuntu-focal](https://github.com/ibm-xaas/iaas-custom-image-ubuntu-focal)
-* Nothing updated yet.
+# iaas-custom-image-ubuntu-focal-mysql
+* Note: this repo was created the repo from template [iaas-custom-image-ubuntu-focal](https://github.com/ibm-xaas/iaas-custom-image-ubuntu-focal)
 
 
 ubuntu 20.04 custom image for ibm cloud
 - removed unattended upgrades
 - installed docker & docker-compose
-- will be installed (not done yet): mysql ... 
+- mysql
 
 ## how to test (create a custom image in us-south region)
 ```

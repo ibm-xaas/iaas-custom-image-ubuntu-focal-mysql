@@ -1,5 +1,5 @@
 # iaas-custom-image-ubuntu-focal-mysql
-* Note: this repo was created the repo from template [iaas-custom-image-ubuntu-focal](https://github.com/ibm-xaas/iaas-custom-image-ubuntu-focal)
+* Note: this repo was created from the repo template [iaas-custom-image-ubuntu-focal](https://github.com/ibm-xaas/iaas-custom-image-ubuntu-focal)
 
 
 ubuntu 20.04 custom image for ibm cloud

@@ -34,3 +34,14 @@
 
   roles:
     - geerlingguy.docker
+
+- name: play Install mysql
+  hosts: default
+  become: true
+  tasks:
+    - name: Install Prerequisites
+      apt: name=aptitude update_cache=yes state=latest force_apt_get=yes
+
+    - name: Install MySQL Packages
+      apt: name={{ item }} update_cache=yes state=latest
+      loop: ["mysql-server", "python3-pymysql", "php-fpm", "php-mysql"]

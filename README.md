@@ -6,6 +6,7 @@
 ubuntu 20.04 custom image for ibm cloud
 - removed unattended upgrades
 - installed docker & docker-compose
+- will be installed (not done yet): mysql ... 
 
 ## how to test (create a custom image in us-south region)
 ```

@@ -1,5 +1,5 @@
 # iaas-custom-image-ubuntu-focal-mysql (Work In Progress)
-* Note: Just created the repo from template (iaas-custom-image-ubuntu-focal)[https://github.com/ibm-xaas/iaas-custom-image-ubuntu-focal]
+* Note: Just created the repo from template [iaas-custom-image-ubuntu-focal](https://github.com/ibm-xaas/iaas-custom-image-ubuntu-focal)
 * Nothing updated yet.
 
 
